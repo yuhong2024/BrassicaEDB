@@ -1,5 +1,3 @@
-# Search-Gene Expression模块
-
 # 更新亮点
 
 （[BrassicaEDB](https://brassicaedb.com/#/search/expression) ）**Gene Expression模块[1]更新 | 芸苔属基因表达分析**<br>
@@ -205,6 +203,3 @@
 期待你的反馈与参与，让我们一起推动芸苔属研究的进步！ 🌱<br>
 
 ##  **往期回顾**
-
-[Hi生信倾情开发--芸薹属物种表达量数据库 BrassicaEDB 2.0](https://mp.weixin.qq.com/s/6r435FzDscMs1tTk5mz8Ww)
-
