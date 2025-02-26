@@ -4,6 +4,8 @@
   
   
   
+  - \- **02/26/2025**: The global search on the home page is updated to show an overview of the Search module and project statistics
+    
   - **02/25/2025**: Major page updates: AS page and Home page, overall routing and some details.
     - Completed the update and modification of the AS page, added the function of viewing gene structure, and modified the original layout of the input and result pages, which is divided into three panels: gene structure, expression, and shear events.<bar>
     - Adjusted some of the home page panels and moved them to other pages, adjusted routing. Optimized the front-end code.
