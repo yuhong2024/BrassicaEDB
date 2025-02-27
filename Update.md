@@ -4,6 +4,8 @@
   
   
   
+  - **02/27/2025**: Updated the display of search results on the home page and modified the layout of the first part. Optimized the display of the project statistics spreadsheet as well as added drawer templates to support users jumping pages. In addition, fixed the font size and alignment problems of the input box and species selection box.
+    
   - \- **02/26/2025**: The global search on the home page is updated to show an overview of the Search module and project statistics
     
   - **02/25/2025**: Major page updates: AS page and Home page, overall routing and some details.
