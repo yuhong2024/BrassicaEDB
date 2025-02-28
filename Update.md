@@ -4,14 +4,12 @@
   
   
   
+  - **02/28/2025**:  Completed the home page global search. The response speed is improved to 1-2s. Also supports the project statistics panel to quickly jump to the Gene Expression page to view the results.
   - **02/27/2025**: Updated the display of search results on the home page and modified the layout of the first part. Optimized the display of the project statistics spreadsheet as well as added drawer templates to support users jumping pages. In addition, fixed the font size and alignment problems of the input box and species selection box.
-    
   - \- **02/26/2025**: The global search on the home page is updated to show an overview of the Search module and project statistics
-    
   - **02/25/2025**: Major page updates: AS page and Home page, overall routing and some details.
     - Completed the update and modification of the AS page, added the function of viewing gene structure, and modified the original layout of the input and result pages, which is divided into three panels: gene structure, expression, and shear events.<bar>
     - Adjusted some of the home page panels and moved them to other pages, adjusted routing. Optimized the front-end code.
-  
   - **02/24/2025**: Completed update of Gene Homologous page to support clicking on the species title to quickly copy and jump to Gene Expression page to complete the analysis. Restrictions on input boxes.
   - **02/23/2025**: Published Gene Expression module tutorials on WeChat Official Account and GitHub documentation.
   - **02/22/2025**: Completed major version update of Gene Expression module with comprehensive functionality improvements.
