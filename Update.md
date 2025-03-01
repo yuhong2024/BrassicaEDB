@@ -1,8 +1,14 @@
 - # Update History
 
+  ### Mar 2025
+  
+  
+  
+  - **01/03/2025**: Fixed AS page, some tables and boxplots display. Unified the paragraph spacing of the introductory section of the navigation bar.
+  
+    
+  
   ### Feb 2025
-  
-  
   
   - **02/28/2025**:  Completed the home page global search. The response speed is improved to 1-2s. Also supports the project statistics panel to quickly jump to the Gene Expression page to view the results.
   - **02/27/2025**: Updated the display of search results on the home page and modified the layout of the first part. Optimized the display of the project statistics spreadsheet as well as added drawer templates to support users jumping pages. In addition, fixed the font size and alignment problems of the input box and species selection box.
