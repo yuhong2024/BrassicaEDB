@@ -4,6 +4,12 @@
   
   
   
+  - **07/03/2025**: Moved Projects page to Browse board. Modified the BLAST page for initial functionality
+  
+  - **05/03/2025**: Modified some details. standardized the page formatting of Tools board. eFP page's image note and size display. 
+  
+  - **04/03/2025**: Modified the input limit of Homo page and GRN page. modified the parameter of Pan page.
+  
   - **01/03/2025**: Fixed AS page, some tables and boxplots display. Unified the paragraph spacing of the introductory section of the navigation bar.
   
     
