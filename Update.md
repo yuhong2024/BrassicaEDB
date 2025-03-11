@@ -2,7 +2,11 @@
 
   ### Mar 2025
   
-  - **09/03/2025**: 
+  - **11/03/2025**: The JBrowse page is implemented with all the data already accessible. Layout modifications for other previous pages.The download page has been modified to provide downloads of all relevant data already available. The page has also been redesigned to take into account the characteristics of the six species of the genus Brassica.
+  
+  - **10/03/2025**: Implementation of the qPrimer page, which allows the user to complete the primer design
+  
+  - **09/03/2025**: BLAST page optimization and design.
   
   - **08/03/2025**: Finished optimizing the design of the BLAST page so that the feature is now available. Finished optimizing the design of the JBROWSE page, making it possible to show the results for the six current species. (Happy 3.8 Women's Day!)
   
