@@ -4,7 +4,7 @@
       
       
       
-      - **15/03/2025**: Completed the functional implementation of the TF Identification page, able to return results. Completed the initial development of BrassicaAI, and accessed the relevant large models to realize basic interaction.
+      - **15/03/2025**: Completed the functional implementation of the GO page and KEGG page, able to return results. Completed the functional implementation of the TF Identification page, able to return results. Completed the initial development of BrassicaAI, and accessed the relevant large models to realize basic interaction.
       - **14/03/2025**: 
         Completed the first draft of the Pheatmap page and Venn page of the Tools board, implementing mapping and functionality.
         Fixed the problem of incomplete display of part of the JBrowse page.
