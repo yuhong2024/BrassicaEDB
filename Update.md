@@ -4,6 +4,9 @@
       
       
       
+      - **17/03/2025**: 
+        Completed development of the Tissue Specific Analysis page. Fixed display issues on TF, GO, KEGG, Pheatmap, and Venn pages. Integrated BrassicaAI(Ada) function to realize preliminary AI function, based on DeepSeeekR1.
+      
       - **16/03/2025**: 
         Completed the first draft of the GO page , implementing mapping and functionality. Fixed some wrong in Venn page、Pheatmap page 、TF page.
       
@@ -61,7 +64,7 @@
         - Enhanced search and visualization tools
       
       ### Jan 2025
-    
+      
       - **01/11/2025**: Enhanced the database with new features, including the **Summary** module for comprehensive data overview, the **Brassica L.** section for species-specific information, and improved **Structure** visualization with interactive gene feature display.
       - **01/10/2025**: Updated the **Help/About** page with detailed documentation, including a section on frequently asked questions (FAQ) and step-by-step tutorials for using the key modules.
       - **01/07/2025**: Redesigned the **Search** page with a more intuitive layout, featuring advanced filtering options, dynamic query previews, and real-time results rendering.
@@ -80,7 +83,7 @@
       - **11/05/2024**: Added new filtering options for co-expression and TF network modules.
       
       ### Oct 2024
-    
+      
       - **10/30/2024**: Introduced automatic session saving for gene search queries.
       - **10/20/2024**: Launched advanced BLAST search module with interactive result highlighting.
       - **10/10/2024**: Updated navigation bar with quick access to frequently used tools.
@@ -99,7 +102,7 @@
       - **8/05/2024**: Added live data preview functionality for uploaded query files.
       
       ### Jul 2024
-    
+      
       - **7/31/2024**: Introduced breadcrumb navigation in the Download and Transcript Expression modules.
       - **7/22/2024**: Improved performance for charts rendering on mobile devices.
       - **7/10/2024**: Added auto-correct suggestions for invalid gene inputs.
@@ -118,7 +121,7 @@
       - **5/10/2024**: Improved mobile responsiveness for BLAST query result pages.
       
       ### Apr 2024
-    
+      
       - **4/30/2024**: Optimized the rendering time of expression heatmaps.
       - **4/20/2024**: Added collapsible sections to the Help and FAQ pages.
       - **4/10/2024**: Launched an interactive version of WGCNA hub gene analysis tools.
