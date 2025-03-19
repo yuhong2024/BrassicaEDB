@@ -5,7 +5,7 @@
       
       
       - **17/03/2025**: 
-        Completed development of the Tissue Specific Analysis page. Fixed display issues on TF, GO, KEGG, Pheatmap, and Venn pages. Integrated BrassicaAI(Ada) function to realize preliminary AI function, based on DeepSeeekR1.
+        Completed development of the Tissue Specific Analysis page. Fixed display issues on TF, GO, KEGG, Pheatmap, and Venn pages. Integrated BrassicaAI(Ada) function to realize preliminary AI function, based on DeepSeekR1.
       
       - **16/03/2025**: 
         Completed the first draft of the GO page , implementing mapping and functionality. Fixed some wrong in Venn page、Pheatmap page 、TF page.
