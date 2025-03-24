@@ -2,6 +2,8 @@
 
 ### Mar 2025
 
+- **24/03/2025**: Finished revising the front page. Optimized several pages in the Browse section. Modified the sample files and formatting instructions for the Tissue module.
+
 - **22/03/2025**: Added information about U-theory and updated the content of the brassica info module. 
 
 - **20/03/2025**: 
