@@ -4,7 +4,7 @@
 
 ### Apr 2025
 
-\- **01/04/2025**: Fixed Expression page and other updates
+\- **01/04/2025**: Fixed Expression page and other updates.
 
 ### Mar 2025
 
