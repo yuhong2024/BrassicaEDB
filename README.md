@@ -111,7 +111,9 @@ The platform is developed and maintained by the Rapeseed Biology Innovation Team
 - Xueying Wang (wxy632s@163.com)
 
 ### How to Cite / 如何引用
-> Chao H, Li T, Luo C, Huang H, Ruan Y, Li X, Niu Y, Fan Y, Sun W, Zhang K, Li J, Qu C, Lu K. BrassicaEDB: A Gene Expression Database for Brassica Crops. Int. J. Mol. Sci. 2020, 21, 5831.
+> BrassicaEDB 2.0 is under continuous development. If you wish to reference or use the platform in your research, please refer to our [GitHub repository](https://github.com/yuhong2024/BrassicaEDB) for the latest information and updates.
+
+> BrassicaEDB 2.0 平台正在持续开发中，如需引用或应用本平台，请参考我们的 [GitHub 页面](https://github.com/yuhong2024/BrassicaEDB) 获取最新信息。
 
 ---
 
