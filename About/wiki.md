@@ -159,10 +159,6 @@ A: Chrome (recommended), Firefox, Safari, Edge
 
 
 
-
-  
-[Team information continues...]
-
 ### Citation
 > The BrassicaEDB 2.0 platform is under continuous development. If you wish to reference or use the platform in your research, please refer to our [GitHub repository](https://github.com/yuhong2024/BrassicaEDB) for the latest information and updates.
 
@@ -172,7 +168,7 @@ A: Chrome (recommended), Firefox, Safari, Edge
 
 ## Updates
 
-### Version 2.0 (2024)
+### Version 2.0 (2025)
 - Complete platform redesign
 - New analysis modules
 - Enhanced visualization

@@ -2,7 +2,7 @@
 
 > **Default language: English (for academic and research users). Chinese translation is provided for reference.**
 > 
-> 默认语言为英文（面向学术科研用户），中文为辅助说明。
+> 默认语言为英文，中文为辅助说明。
 
 ---
 
