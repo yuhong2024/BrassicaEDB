@@ -1,210 +1,129 @@
-# Search-Gene Expression模块
+# BrassicaEDB 2.0: A Transcriptomic Database for U's Triangle Brassica Species
+
+> **Default language: English (for academic and research users). Chinese translation is provided for reference.**
+> 
+> 默认语言为英文，中文为辅助说明。
+
+---
 
-# 更新亮点
+## Introduction / 简介
+
+**BrassicaEDB 2.0** is a transcriptomic database platform for Brassica species based on U's triangle theory. It aims to provide comprehensive, user-friendly multi-omics data retrieval, analysis, and visualization services for researchers of rapeseed and Brassica crops. The platform integrates six major Brassica species (B. rapa, B. oleracea, B. nigra, B. napus, B. juncea, B. carinata), nearly 3,000 transcriptome datasets, and 39 genome assemblies, supporting gene expression, homologous gene, regulatory network, alternative splicing, pan-transcriptome, and more.
+
+**BrassicaEDB 2.0** 是基于禹氏三角理论（U's triangle）的芸苔属（Brassica）物种转录组数据库平台，致力于为油菜及芸苔属作物研究者提供全面、便捷的多组学数据检索、分析与可视化服务。平台整合了六大芸苔属物种（白菜、甘蓝、黑芥、油菜、芥菜、埃塞俄比亚芥）近3000组转录组数据和39个不同品种的基因组信息，支持基因表达、同源基因、调控网络、可变剪接、泛转录组等多维度分析。
+
+---
 
-（[BrassicaEDB](https://brassicaedb.com/#/search/expression) ）**Gene Expression模块[1]更新 | 芸苔属基因表达分析**<br>
+## Platform Highlights / 平台特色
 
-今天我们为大家介绍BrassicaEDB 2.0 平台的**Gene Expression模块**。我们团队对芸苔属研究需求进行了深入思考，经过多次讨论和迭代，本次更新重点解决了以下问题：<br>
-① **操作简化**：设计了一站式表单面板，支持快速选择物种和输入基因 <br>
-② **数据整合**：整合多个高质量RNA-seq项目，覆盖根、茎、叶、花、种子等组织<br>
-③ **结果可视化**：提供四大动态图表，满足不同分析需求<br>
+- **Comprehensive coverage of six Brassica species**: Supports interspecies comparison and evolutionary studies.
+- **Integrated multi-omics data**: 2,992 transcriptome datasets, 39 genome assemblies, authoritative sources, continuously updated.
+- **Powerful analysis tools**: Built-in modules for expression analysis, homologous gene, eFP browser, regulatory network, alternative splicing, pan-transcriptome, GO/KEGG enrichment, heatmap, Venn diagram, and more.
+- **User-friendly interface**: Clear navigation, one-click search, visualization, batch download, suitable for users at all levels.
+- **AI assistant**: Integrated BrassicaAI (Ada) for intelligent Q&A and analysis support.
+
+- **六大物种全覆盖**：涵盖禹氏三角六大Brassica物种，支持物种间对比与进化研究。
+- **多组学数据整合**：收录2,992组转录组数据、39个基因组，数据来源权威，持续更新。
+- **强大分析工具**：内置表达分析、同源基因、eFP浏览、调控网络、可变剪接、泛转录组、GO/KEGG富集、热图、韦恩图等常用生信工具。
+- **友好交互界面**：导航清晰，支持一键检索、可视化展示、批量下载，适合不同层次用户。
+- **AI助手**：集成BrassicaAI（Ada），辅助智能问答与分析。
+
+---
+
+## Main Functional Modules / 主要功能模块
+
+### 1. Browse
+- **BrassicaEDB Summary**: Database and data resource overview
+- **Brassica Info**: Detailed introduction of six species
+- **Brassica TF**: Transcription factor families and annotation
+- **Brassica Projects**: Related projects and datasets
+- **BrassicaAI (Ada)**: AI assistant
+
+### 2. Search
+- **Gene Expression**: Gene expression profiling
+- **Gene Homologous**: Homologous gene search
+- **Gene eFP**: Electronic fluorescent pictograph visualization
+- **Gene Regulation Network**: Regulatory network analysis
+- **Gene Alternative Splicing**: Alternative splicing event analysis
+- **Gene Pantranscriptome**: Pan-transcriptome relationship analysis
+
+### 3. Analysis
+- **Tissue Specific Analysis**: Tissue-specific expression analysis
+- **TF identification**: Transcription factor identification and co-expression network
+- **GO/KEGG enrichment**: Functional enrichment analysis
+
+### 4. Tools
+- **qPrimer**: qPCR primer design
+- **Seq-fetch**: Sequence extraction
+- **Blast**: Sequence alignment
+- **Jbrowse**: Genome browser
+- **Pheatmap**: Heatmap visualization
+- **Venn**: Venn diagram analysis
+
+### 5. Download
+- **Data Download Center**: One-stop download for genome, transcriptome, and more, with species/subgenome filtering.
+
+### 6. Help
+- **News**: Platform news
+- **Tutorial**: Detailed tutorials
+- **Video**: Video demonstrations
+- **Links**: Related resources
+
+---
+
+## Data Resources / 数据资源
+- 6 Brassica species
+- 39 genome assemblies
+- 2,992 transcriptome datasets (178 NCBI Bioprojects)
+- Rich functional annotation, homologous relationships, regulatory networks, alternative splicing, etc.
+
+- 6个Brassica物种
+- 39个基因组版本
+- 2,992组转录组数据（178个NCBI Bioprojects）
+- 丰富的功能注释、同源关系、调控网络、可变剪接等信息
+
+---
+
+## How to Use / 使用方法
+1. Visit the homepage and browse the navigation modules.
+2. Use the Search module to enter gene IDs or select species for multi-dimensional results.
+3. Use the Analysis and Tools modules for in-depth analysis and visualization.
+4. Download required data from the Download Center.
+5. Refer to the Help module for tutorials and FAQs.
+
+1. 访问平台主页，浏览导航栏各功能模块。
+2. 在Search模块输入基因ID或选择物种，快速获取表达、同源、调控等多维度结果。
+3. 利用Analysis和Tools模块进行深入分析与可视化。
+4. 在Download中心下载所需数据。
+5. 参考Help模块获取操作教程与常见问题解答。
+
+---
+
+## Team & Citation / 团队与引用
+The platform is developed and maintained by the Rapeseed Biology Innovation Team at Southwest University (PI: Prof. Kun Lu), with members including postdocs, PhDs, masters, and undergraduates, dedicated to genomics and molecular breeding of rapeseed and Brassica crops.
 
-现在，让我们从最基础的操作开始，快速上手这个模块。
+平台由西南大学油菜生物学创新团队（团队负责人：卢坤教授）开发维护，团队成员涵盖博士后、博士、硕士及本科生，长期致力于油菜及芸苔属作物的基因组学与分子育种研究。
 
-![](https://files.mdnice.com/user/64884/c8a19420-25d2-49f7-9fa2-f5995b90d3e0.png)
+### Main Contributors / 主要贡献者
+- Xiaodong Li (lxd1997xy@163.com)
+- Boyu Meng (1340516624@qq.com)
+- Yuhong Wang (wyhstar@email.swu.edu.cn)
+- Xueying Wang (wxy632s@163.com)
 
+### How to Cite / 如何引用
+> Chao H, Li T, Luo C, Huang H, Ruan Y, Li X, Niu Y, Fan Y, Sun W, Zhang K, Li J, Qu C, Lu K. BrassicaEDB: A Gene Expression Database for Brassica Crops. Int. J. Mol. Sci. 2020, 21, 5831.
 
-# 模块介绍
+---
 
-在中心法则中，基因转录是将遗传信息从 DNA 传递到 RNA 的重要环节，而 **RNA-seq 技术** 能够精确测量基因的转录水平，追踪其在不同组织、发育阶段或处理条件下的表达变化，甚至发现新的转录本和可变剪接事件。研究基因表达可以帮助我们解决这些问题：<br>
+## References / 参考文献
+1. Xiaodong Li†, Boyu Meng†, Zhi Zhang, Lijuan Wei, Wei Chang, Yuhong Wang, Kai Zhang*, Tian Li*, Kun Lu*. qPrimerDB 2.0: an updated comprehensive gene-specific qPCR primer database for 1172 organisms. Nucleic Acids Research, 2024, gkae684. DOI:10.1093/nar/gkae684.
+2. Chao H, Li T, Luo C, Huang H, Ruan Y, Li X, Niu Y, Fan Y, Sun W, Zhang K, Li J, Qu C, Lu K. BrassicaEDB: A Gene Expression Database for Brassica Crops. Int. J. Mol. Sci. 2020, 21, 5831.
+3. Jin, J., Tian, F., Yang, D.C., Meng, Y.Q., Kong, L., Luo, J. and Gao, G. (2017) PlantTFDB 4.0: toward a central hub for transcription factors and regulatory interactions in plants. Nucleic Acids Res, 45, D1040-D1045.
+4. Leonore Reiser, Erica Bakker, Sabarinath Subramaniam, Xingguo Chen, Swapnil Sawant, Kartik Khosa, Trilok Prithvi, Tanya Z Berardini, The Arabidopsis Information Resource in 2024, Genetics, Volume 227, Issue 1, May 2024, iyae027, https://doi.org/10.1093/genetics/iyae027
+5. Xiaoming Song, Yanping Wei, Dong Xiao, Ke Gong, Pengchuan Sun, Yiming Ren, Jiaqing Yuan, Tong Wu, Qihang Yang, Xinyu Li, Fulei Nie, Nan Li, Shuyan Feng, Qiaoying Pei, Tong Yu, Changwei Zhang, Tongkun Liu, Xiyin Wang, Jinghua Yang, Brassica carinata genome characterization clarifies U's triangle model of evolution and polyploidy in Brassica, Plant Physiology, Volume 186, Issue 1, May 2021, Pages 388–406, https://doi.org/10.1093/plphys/kiab048
+6. JBrowse 2: a modular genome browser with views of synteny and structural variation. Genome Biology (2023). https://doi.org/10.1186/s13059-023-02914-z
 
-- 比较同一基因在不同部位或不同阶段的表达情况
-- 比较不同基因在相同部位或阶段的表达差异
-- 对不同的处理或胁迫条件，推测可能存在的调控机制
+---
 
-
-![](https://files.mdnice.com/user/64884/290b3d70-5f78-466a-853d-352948892f03.png)
-
-# 模块使用
-
-## 输入区域
-
-我们设计了一个简洁直观的表单面板，只需三步即可开启基因表达分析：<br>
-① **选择物种**：支持六大芸苔属作物一键切换<br>
-② **输入基因**：粘贴基因ID或使用示例基因快速体验<br>
-③ **检索项目**：默认推荐胚发育数据集，支持自定义筛选<br>
-
-大家可以选择对应的物种和输入感兴趣的基因。在默认情况下，每个物种都有一个推荐的项目提供检索。这里我们简单演示一下。
-
-![](https://files.mdnice.com/user/64884/92b9f87e-2f37-46b8-82f2-f23605dc0e1b.png)
-
-
-
-### Step1: 物种与基因输入
-
-首先我们切换不物种，查看示例基因的结果。同时，输入框支持自行粘贴基因，页面将自动识别并切换到对应物种。<br>
-
-- **两种输入模式**：<br>
-  ①直接粘贴基因ID（自动识别物种）<br>
-  ②点击"示例"按钮，快速体验（推荐新手）<br>
-- **智能提示**：输入框实时校验基因ID格式<br>
-
-![](https://files.mdnice.com/user/64884/121adae8-c3bc-45be-8ae9-d4109d31e109.png)
-
-
-### Step2: 项目筛选
-
-我们为每个物种精选了**默认项目**（PRJNA641876），这是目前较为完整的芸苔属胚发育时空表达图谱。点击【More Projects】按钮，可探索更多项目。<br>
-
-
-![](https://files.mdnice.com/user/64884/cfe2b716-c8b8-42fd-bf67-89c09a69420b.png)
-
-
-我们此次更新最大的亮点是，提供了178 份不同的项目让用户自行选择感兴趣的组织和处理，来检索目标基因的表达情况，实现了：<br>
-
-- **多维度筛选**：<br>
-   按组织类型：根、茎、叶、花、种子等12类<br>
-  按实验处理：正常条件、非生物胁迫、生物胁迫等3类<br>
-
-- **灵活扩展**：点击【+】按钮，探索更多组织数据<br>
-
-
-![](https://files.mdnice.com/user/64884/c4435417-bb5e-4c41-ad30-69d451beebc6.png)
-
-
-- **项目直通NCBI**：点击编号即可查看原始数据详情<br>
-
-
-![](https://files.mdnice.com/user/64884/119207b3-77d7-47d1-b2aa-7004640f156a.png)
-
-
-
-### Step3: 提交检索
-
-选择目标项目后：<br>
-
-- 可在左侧输入区域看到当前选中项目和简介<br>
-- 点击【Search】按钮，即可得到结果页面<br>
-
-
-## 结果区域
-
-在提交检索后，进入结果页面。基于基因的检索结果，我们不仅提供了详细的表达量数据，还配备了趋势图、热图、箱线图、柱形图等四大动态图表，帮助大家从不同角度解读基因表达模式。
-
-
-![](https://files.mdnice.com/user/64884/c9ddebfe-3f66-42f6-b0e2-9946304d1e05.png)
-
-
-
-
-### **图表工具**
-
-每个图表右上角均配备实用工具：
-
-- **原始数据查看**：可查看完整的原始数据
-- **分区域截屏**：精准保存目标区域
-- **图表转换**：不同类型图表自由切换
-- **结果保存**：支持PNG格式下载保存
-
-
-![](https://files.mdnice.com/user/64884/e5c60ff6-8a58-4849-ba60-ae32dea833bd.png)
-
-
-
-
-### 表达量表格
-
-- **固定Gene ID列**：方便快速定位目标基因<br>
-- **横向滑动查看**：支持浏览完整样本的TPM值<br>
-
-
-
-![](https://files.mdnice.com/user/64884/bddc4d6f-bdd1-451f-ab3f-80639839a5e3.png)
-
-
-
-###  **四大图表：多维度解读**
-
-在结果区域，我们提供了四种动态图表，帮助大家从不同角度分析基因表达数据。
-
-| 图表类型 | 适用场景     | 特色功能           |
-| :------- | :----------- | :----------------- |
-| 趋势图   | 发育动态分析 | 直观显示表达趋势   |
-| 热图     | 多基因比较   | 优化配色方案       |
-| 箱线图   | 组间差异统计 | 展示数据分布       |
-| 柱状图   | 特定样本对比 | 直观展示数据量高低 |
-
-
-#### ① 趋势图：追踪发育动态
-
-**适用场景**：分析基因在不同发育阶段的变化<br>
-
-**特色功能**：直观显示表达趋势<br>
-
-![](https://files.mdnice.com/user/64884/ae304b17-d2df-453f-9b1a-4a0b8661f9b7.png)
-
-
-#### ② 热图：多基因快速比较
-
-**适用场景**：比较多个基因在不同样本中的表达模式<br>
-
-**特色功能**：优化配色方案，突出重点数据；可查看原始数据<br>
-
-
-![](https://files.mdnice.com/user/64884/9c1f3603-0fd1-4389-8b0c-0e4b5fc77928.png)
-
-
-#### ③ 箱线图：揭示组间差异
-
-- **适用场景**：统计不同处理组间的表达差异<br>
-- **特色功能**：清晰展示数据分布范围和中位数，便于组间比较<br>
-
-![](https://files.mdnice.com/user/64884/c024a9a4-c5fc-4dcf-8d91-19e99006fc59.png)
-
-
-#### ④ 柱状图：精准样本对比
-
-- **适用场景**：比较特定样本或处理条件下的表达量<br>
-- **特色功能**：直观展示表达量高低，便于快速对比<br>
-![](https://files.mdnice.com/user/64884/e6b03643-f721-4acc-8cc5-ec1030c165fe.png)
-
-
-### 结果保存
-
-在图表的右上角，点击【<u>↓</u>】下载按钮，即可保存结果图片到本地。
-
-
-![](https://files.mdnice.com/user/64884/c1f1394a-e861-446d-a7e5-6cea6cf45976.png)
-
-
-# 结语
-
-通过以上步骤，相信大家已经掌握了**Gene Expression模块**的核心使用方法。我们团队将持续更新更多模块的使用教程，并不断优化平台功能。<br>
-
-##  **相关资源**
-
-
-- **网站直达**：[BrassicaEDB](https://brassicaedb.com/#/search/expression)<br>
-- **GitHub仓库**：[yuhong2024/brassicaedb](https://github.com/yuhong2024/brassicaedb)（欢迎Star🌟支持！）<br>
-------
-
-##  **问题反馈**
-
-如果大家在使用过程中遇到任何问题，或有改进建议，欢迎通过以下方式联系我们：<br>
-
-- **邮箱**：[wyhstar@email.swu.edu.cn](mailto:482218016@qq.com)<br>
-- **GitHub Issues**：提交问题至仓库 [2] <br>
-
-------
-###  **相关链接**
-
-[1] [BrassicaEDB Gene Expression](https://brassicaedb.com/#/search/expression)<br>
-[2] [GitHub Repository](https://github.com/yuhong2024/brassicaedb)<br>
-
-
-期待你的反馈与参与，让我们一起推动芸苔属研究的进步！ 🌱<br>
-
-##  **往期回顾**
-
-[Hi生信倾情开发--芸薹属物种表达量数据库 BrassicaEDB 2.0](https://mp.weixin.qq.com/s/6r435FzDscMs1tTk5mz8Ww)
-
+For more help, please visit the "Help" module or contact our team.  
+如需更多帮助，请访问平台"帮助"模块或联系我们团队。

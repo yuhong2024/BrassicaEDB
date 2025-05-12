@@ -1,18 +1,15 @@
 # Update History
-
-
-
 ### Apr 2025
-
-\- **01/04/2025**: Fixed Expression page and other updates.
+- **02/04/2025**: Fixed some pages and other updates
+- **01/04/2025**: Fixed Expression page and other updates
 
 ### Mar 2025
-
 - **30/03/2025**: Fixed AS page and other updates
 
 - **24/03/2025**: Finished revising the front page. Optimized several pages in the Browse section. Modified the sample files and formatting instructions for the Tissue module.
 
 - **22/03/2025**: Added information about U-theory and updated the content of the brassica info module. 
+
 
 - **20/03/2025**: 
   Modified the alignment of the upload button of Pheatmap. Fixed pina data reuse issue in bioproject.
